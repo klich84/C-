@@ -1,0 +1,9 @@
+1. Se clono el archivo https://github.com/jcorreaITM/lab0_2019_1.git en el PC
+2. Cree una cuenta en https://github.com, ya que no tenia una cuenta
+3. Se descargaron los archivos del repositorio de la pagina mencionado en lel paso 1.
+4. Siguiendo la guia de instrucciones se procedio de la siguinete manera
+5. Se creo un nuevo repositorio llamado C++ y se creo un archivo de texto llamado c++ y se edito con un post de la siguiente pagina https://es.quora.com/Que-es-c++
+6.Se creo un nuevo Branch llamado Nuevo Branch, se creo un nuevo archivo llamado elmejor y se dedito con un post de la siguinete pagina https://es.quora.com/Cu%C3%A1l-es-el-mejor-IDE-para-C-y-C++
+7.Cree un Archivo con el nombre de Secuencia y lo edite con la secuencia de numero de compilacion del archivo secuencia bajado del repositorio del profesor y compilado en la pagina http://cpp.sh 
+8. Fucione el bran nuevo Branch con el bran master.
+9. Cree este archivo en el branch master
